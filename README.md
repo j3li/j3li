@@ -1,16 +1,21 @@
-### Hi there 👋
+### My Introduction 👋🏻
 
-<!--
-**j3li/j3li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Jing, a recent CS grad from UCSD. I got into data after I graduated and I've been self learning SQL, Tableau, and Python.
 
-Here are some ideas to get you started:
+### 📚 Projects
+In my github, you can find my projects on data analytics and Python applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 My Skills
+- Data preparation, cleaning, and analysis
+- Dashboard development and reporting
+- Exploratory data analysis
+
+### 🛠️ My Tools
+- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
+- Python: NumPy, Pandas, Flask
+- Visualisation: Tableau, Matplotlib, Seaborn
+- Project Management: Trello, JIRA
+
+### 🤝🏻 Socials
+- [Linkedin](https://www.linkedin.com/in/jing3li/)
+- [Portfolio Website](https://j3li.github.io/)
