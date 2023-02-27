@@ -1,4 +1,4 @@
-### My Introduction 👋🏻
+## My Introduction 👋🏻
 
 Hi there! I'm Jing, a recent CS grad from UCSD. I got into data after I graduated and I've been self learning SQL, Tableau, and Python.
 
