@@ -23,3 +23,4 @@ In my github, you can find my projects on data analytics and Python applications
 
 
 ![](https://komarev.com/ghpvc/?username=j3li&color=dcd0ff&style=flat-square&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=50200083)
