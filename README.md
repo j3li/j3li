@@ -19,3 +19,7 @@ In my github, you can find my projects on data analytics and Python applications
 ### 🤝🏻 Socials
 - [Linkedin](https://www.linkedin.com/in/jing3li/)
 - [Portfolio Website](https://j3li.github.io/)
+
+
+
+![](https://komarev.com/ghpvc/?username=j3li&color=dcd0ff&style=flat-square&label=PROFILE+VIEWS)
