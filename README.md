@@ -13,7 +13,7 @@ In my github, you can find my projects on data analytics and Python applications
 ### 🛠️ My Tools
 - Databases: SQL (PostgreSQL, MySQL, MS SQL Server), Excel
 - Python: NumPy, Pandas, Flask
-- Visualisation: Tableau, Power BI, Matplotlib, Seaborn
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn
 - Project Management: Trello, JIRA
 
 ### 🤝🏻 Socials
